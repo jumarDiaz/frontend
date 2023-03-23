@@ -1,0 +1,16 @@
+.app-footer {
+    grid-area: footer;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(240, 51, 45);
+
+}
+
+.title-footer{
+    color: blueviolet;
+    flex-grow: 1
+}
+
+cont-footer {
+    color: brown;
+
+}
